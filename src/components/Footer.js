@@ -15,7 +15,7 @@ function Footer() {
             <FacebookIcon/>
         </div>
         {/* que el año sea extraido automaticamente  */}
-        <p> &copy; 2023 oscarmouras.com </p>
+        <p> &copy; 2023 oscarmouras.netlify.app </p>
 
     </div>
   )
